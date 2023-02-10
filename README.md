@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**miguelangel13425/miguelangel13425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cursando la carrera de ingenieria en sistemas
 
-Here are some ideas to get you started:
+⚡ Sabias: Las mariposas saborean con los pies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Certificados:
+Khan academy:
+Ayudante de mesero
+Bolsa de valores
+
+| Hora  | Lunes           | Martes          | Miercoles       | Jueves          | Viernes         |
+|-------|-----------------|-----------------|-----------------|-----------------|-----------------|
+| 1-2pm | Ing de software | Ing de software | Ing de software | Ing de software | Ing de software |
+| 2-3pm | Red de comp     | Red de comp     | Red de comp     | Red de comp     | Red de comp     |
+| 3-4pm | Talles de SO    | Talles de SO    | Talles de SO    | Talles de SO    | Talles de SO    |
+| 4-5pm | Leng Interfaz   | Leng Interfaz   | Leng Interfaz   | Leng Interfaz   | Leng Interfaz   |
+| 5-6pm | Leng y Auto     | Leng y Auto     | Leng y Auto     | Leng y Auto     | Leng y Auto     |
+| 6-7pm | Admin BD        | Admin BD        | Admin BD        | Admin BD        | Admin BD        |
